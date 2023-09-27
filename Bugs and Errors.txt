@@ -1,0 +1,12 @@
+Built class files are included in the class files folder. Main.java is source code for all classes. In order to load a file into the program you are prompted to input a file. You must include the entire path to the file in order for the file to be loaded.
+
+
+Bugs and Known errors:
+
+
+You have to enter the complete path to a file, not just the abbrv from your currect directory.
+
+Not Matter what value is used in printf, it creates a string child, i.e. trying to printf a identifier will create a string child to printf. Not sure if this is how printf is intended to work
+
+included make file does not work
+
